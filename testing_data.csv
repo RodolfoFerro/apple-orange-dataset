@@ -1,273 +1,273 @@
-,filename,color,class
-0,test/apples/apples_1.jpg,"(91, 116, 123)",0
-1,test/apples/apples_118.jpg,"(126, 178, 166)",0
-2,test/apples/apples_119.jpg,"(17, 17, 17)",0
-3,test/apples/apples_120.jpg,"(10, 18, 20)",0
-4,test/apples/apples_144.jpg,"(255, 255, 255)",0
-5,test/apples/apples_150.jpg,"(4, 4, 4)",0
-6,test/apples/apples_151.jpg,"(231, 197, 152)",0
-7,test/apples/apples_153.jpg,"(255, 255, 255)",0
-8,test/apples/apples_166.jpg,"(144, 134, 133)",0
-9,test/apples/apples_195.jpg,"(204, 219, 226)",0
-10,test/apples/apples_198.jpg,"(255, 255, 255)",0
-11,test/apples/apples_201.jpg,"(2, 2, 0)",0
-12,test/apples/apples_212.jpg,"(207, 192, 189)",0
-13,test/apples/apples_213.jpg,"(226, 179, 151)",0
-14,test/apples/apples_215.jpg,"(205, 185, 160)",0
-15,test/apples/apples_219.jpg,"(179, 178, 183)",0
-16,test/apples/apples_231.jpg,"(111, 77, 75)",0
-17,test/apples/apples_240.jpg,"(119, 130, 88)",0
-18,test/apples/apples_250.jpg,"(70, 36, 11)",0
-19,test/apples/apples_257.jpg,"(248, 249, 253)",0
-20,test/apples/apples_258.jpg,"(6, 4, 5)",0
-21,test/apples/apples_266.jpg,"(12, 10, 13)",0
-22,test/apples/apples_269.jpg,"(255, 255, 255)",0
-23,test/apples/apples_270.jpg,"(221, 190, 133)",0
-24,test/apples/apples_301.jpg,"(49, 46, 37)",0
-25,test/apples/apples_314.jpg,"(140, 118, 71)",0
-26,test/apples/apples_317.jpg,"(100, 21, 27)",0
-27,test/apples/apples_319.jpg,"(53, 56, 45)",0
-28,test/apples/apples_321.jpg,"(60, 62, 0)",0
-29,test/apples/apples_326.jpg,"(186, 183, 168)",0
-30,test/apples/apples_351 - Copy.jpg,"(101, 141, 88)",0
-31,test/apples/apples_360 - Copy.jpg,"(113, 16, 9)",0
-32,test/apples/apples_364.jpg,"(255, 255, 255)",0
-33,test/apples/apples_367.jpg,"(85, 6, 2)",0
-34,test/apples/apples_375.jpg,"(195, 61, 68)",0
-35,test/apples/apples_379.jpg,"(251, 253, 252)",0
-36,test/apples/apples_383.jpg,"(223, 224, 228)",0
-37,test/apples/apples_385.jpg,"(255, 255, 255)",0
-38,test/apples/apples_391.jpg,"(109, 123, 64)",0
-39,test/apples/apples_392.jpg,"(105, 160, 120)",0
-40,test/apples/apples_393.jpg,"(254, 254, 254)",0
-41,test/apples/apples_394.jpg,"(93, 101, 0)",0
-42,test/apples/apples_395.jpg,"(255, 255, 255)",0
-43,test/apples/apples_396.jpg,"(112, 151, 0)",0
-44,test/apples/apples_405.jpg,"(255, 255, 255)",0
-45,test/apples/apples_407.jpg,"(255, 255, 255)",0
-46,test/apples/apples_408.jpg,"(244, 245, 247)",0
-47,test/apples/apples_414.jpg,"(173, 163, 161)",0
-48,test/apples/apples_416.jpg,"(142, 50, 61)",0
-49,test/apples/apples_433.jpg,"(148, 36, 50)",0
-50,test/apples/apples_435.jpg,"(113, 16, 9)",0
-51,test/apples/apples_436.jpg,"(89, 1, 0)",0
-52,test/apples/apples_437.jpg,"(120, 120, 118)",0
-53,test/apples/apples_444.jpg,"(13, 9, 10)",0
-54,test/apples/apples_446.jpg,"(43, 55, 41)",0
-55,test/apples/apples_447.jpg,"(157, 83, 38)",0
-56,test/apples/apples_460.jpg,"(246, 246, 246)",0
-57,test/apples/apples_469.jpg,"(242, 237, 233)",0
-58,test/apples/apples_471.jpg,"(179, 115, 103)",0
-59,test/apples/apples_473.jpg,"(226, 219, 213)",0
-60,test/apples/apples_480.jpg,"(206, 230, 168)",0
-61,test/apples/apples_481.jpg,"(147, 146, 151)",0
-62,test/apples/apples_503.jpg,"(242, 240, 131)",0
-63,test/apples/apples_508.jpg,"(255, 255, 255)",0
-64,test/apples/apples_511.jpg,"(235, 221, 210)",0
-65,test/apples/apples_512.jpg,"(205, 71, 62)",0
-66,test/apples/apples_517.jpg,"(134, 131, 126)",0
-67,test/apples/apples_523.jpg,"(255, 253, 232)",0
-68,test/apples/apples_53.jpg,"(182, 173, 166)",0
-69,test/apples/apples_533.jpg,"(43, 69, 22)",0
-70,test/apples/apples_538.jpg,"(255, 255, 253)",0
-71,test/apples/apples_540.jpg,"(157, 174, 0)",0
-72,test/apples/apples_541.jpg,"(79, 89, 37)",0
-73,test/apples/apples_562.jpg,"(255, 255, 255)",0
-74,test/apples/apples_565.jpg,"(29, 39, 15)",0
-75,test/apples/apples_566.jpg,"(68, 89, 0)",0
-76,test/apples/apples_580.jpg,"(74, 84, 85)",0
-77,test/apples/apples_597.jpg,"(172, 157, 136)",0
-78,test/apples/apples_620.jpg,"(46, 69, 51)",0
-79,test/apples/apples_643.jpg,"(186, 135, 69)",0
-80,test/apples/apples_648.jpg,"(1, 0, 0)",0
-81,test/apples/apples_649.jpg,"(210, 211, 206)",0
-82,test/apples/apples_655.jpg,"(196, 67, 36)",0
-83,test/apples/apples_657.jpg,"(251, 250, 255)",0
-84,test/apples/apples_682.jpg,"(206, 207, 209)",0
-85,test/apples/apples_684.jpg,"(0, 0, 10)",0
-86,test/apples/apples_692.jpg,"(0, 0, 0)",0
-87,test/apples/apples_696.jpg,"(110, 54, 39)",0
-88,test/apples/apples_699.jpg,"(2, 63, 118)",0
-89,test/apples/apples_700.jpg,"(0, 0, 0)",0
-90,test/apples/apples_714.jpg,"(149, 146, 137)",0
-91,test/apples/apples_725.jpg,"(189, 25, 0)",0
-92,test/apples/apples_733.jpg,"(6, 20, 3)",0
-93,test/apples/apples_734.jpg,"(28, 40, 4)",0
-94,test/apples/apples_735.jpg,"(155, 24, 29)",0
-95,test/apples/apples_738.jpg,"(142, 47, 27)",0
-96,test/apples/apples_741.jpg,"(0, 0, 0)",0
-97,test/apples/apples_744.jpg,"(0, 0, 0)",0
-98,test/apples/apples_745.jpg,"(210, 201, 186)",0
-99,test/apples/apples_747.jpg,"(126, 48, 26)",0
-100,test/apples/apples_748.jpg,"(103, 102, 54)",0
-101,test/apples/apples_750.jpg,"(146, 155, 160)",0
-102,test/apples/apples_752.jpg,"(83, 45, 22)",0
-103,test/apples/apples_753.jpg,"(122, 126, 49)",0
-104,test/apples/apples_762.jpg,"(161, 52, 45)",0
-105,test/apples/apples_763.jpg,"(48, 53, 47)",0
-106,test/apples/apples_769.jpg,"(93, 114, 45)",0
-107,test/apples/apples_770.jpg,"(156, 156, 154)",0
-108,test/apples/apples_776.jpg,"(4, 10, 8)",0
-109,test/apples/apples_783.jpg,"(8, 7, 13)",0
-110,test/apples/apples_785.jpg,"(255, 255, 255)",0
-111,test/apples/apples_789.jpg,"(4, 2, 3)",0
-112,test/apples/apples_791.jpg,"(19, 19, 17)",0
-113,test/apples/apples_793.jpg,"(14, 0, 0)",0
-114,test/apples/apples_797.jpg,"(0, 5, 0)",0
-115,test/apples/apples_800.jpg,"(210, 173, 95)",0
-116,test/apples/apples_801.jpg,"(14, 23, 6)",0
-117,test/apples/apples_803.jpg,"(126, 154, 96)",0
-118,test/apples/apples_847.jpg,"(30, 41, 33)",0
-119,test/apples/apples_848.jpg,"(157, 40, 82)",0
-120,test/apples/apples_855.jpg,"(177, 135, 111)",0
-121,test/apples/apples_867.jpg,"(252, 254, 253)",0
-122,test/apples/apples_868.jpg,"(206, 184, 147)",0
-123,test/apples/apples_871.jpg,"(187, 33, 33)",0
-124,test/apples/apples_872.jpg,"(255, 255, 255)",0
-125,test/apples/apples_876.jpg,"(97, 62, 34)",0
-126,test/apples/apples_877.jpg,"(142, 134, 131)",0
-127,test/apples/apples_878.jpg,"(77, 95, 47)",0
-128,test/apples/apples_882.jpg,"(9, 10, 4)",0
-129,test/apples/apples_891.jpg,"(11, 11, 11)",0
-130,test/apples/apples_894.jpg,"(233, 234, 228)",0
-131,test/apples/apples_904.jpg,"(201, 197, 186)",0
-132,test/apples/apples_909.jpg,"(202, 159, 104)",0
-133,test/apples/apples_911.jpg,"(20, 41, 0)",0
-134,test/apples/apples_912.jpg,"(183, 184, 179)",0
-135,test/apples/apples_913.jpg,"(117, 117, 117)",0
-136,test/apples/apples_915.jpg,"(13, 12, 10)",0
-137,test/apples/apples_918.jpg,"(147, 165, 167)",0
-138,test/apples/apples_919.jpg,"(56, 59, 42)",0
-139,test/apples/apples_920.jpg,"(122, 114, 111)",0
-140,test/apples/apples_930.jpg,"(148, 89, 57)",0
-141,test/apples/apples_942.jpg,"(205, 219, 254)",0
-142,test/apples/apples_948.jpg,"(13, 11, 14)",0
-143,test/apples/apples_949.jpg,"(0, 0, 0)",0
-144,test/apples/images (49).jpg,"(229, 130, 176)",0
-145,test/apples/images (51).jpg,"(186, 75, 84)",0
-146,test/apples/images (53).jpg,"(112, 4, 20)",0
-147,test/apples/images (74).jpg,"(136, 22, 32)",0
-148,test/apples/images (84).jpg,"(215, 68, 136)",0
-149,test/apples/images (86).jpg,"(119, 32, 49)",0
-150,test/apples/images (87).jpg,"(128, 7, 12)",0
-151,test/apples/images (88).jpg,"(106, 13, 34)",0
-152,test/apples/images - 2022-02-02T202114.896.jpg,"(254, 59, 103)",0
-153,test/apples/images - 2022-02-02T202117.507.jpg,"(177, 63, 97)",0
-154,test/apples/images - 2022-02-02T202120.034.jpg,"(115, 21, 9)",0
-155,test/apples/images - 2022-02-02T202120.245.jpg,"(99, 125, 116)",0
-156,test/apples/images - 2022-02-02T202334.178.jpg,"(83, 103, 42)",0
-157,test/apples/images - 2022-02-02T202355.680.jpg,"(43, 60, 8)",0
-158,test/apples/images - 2022-02-02T202359.320.jpg,"(143, 198, 115)",0
-159,test/apples/images - 2022-02-02T202402.552.jpg,"(31, 49, 27)",0
-160,test/apples/images - 2022-02-02T202404.227.jpg,"(254, 254, 254)",0
-161,test/apples/images - 2022-02-02T202404.384.jpg,"(61, 76, 45)",0
-162,test/apples/images - 2022-02-02T202404.577.jpg,"(70, 95, 12)",0
-163,test/apples/images - 2022-02-02T202407.477.jpg,"(10, 14, 15)",0
-164,test/apples/images - 2022-02-02T202408.906.jpg,"(0, 2, 0)",0
-165,test/apples/images - 2022-02-02T202410.080.jpg,"(37, 61, 0)",0
-166,test/apples/images - 2022-02-02T202411.901.jpg,"(62, 97, 43)",0
-167,test/apples/images - 2022-02-02T202416.818.jpg,"(41, 73, 0)",0
-168,test/apples/images - 2022-02-02T202418.454.jpg,"(96, 133, 38)",0
-169,test/apples/images - 2022-02-02T202652.298.jpg,"(83, 103, 42)",0
-170,test/apples/images - 2022-02-02T202652.671.jpg,"(114, 126, 80)",0
-171,test/apples/images - 2022-02-02T202653.169.jpg,"(31, 51, 0)",0
-172,test/apples/images - 2022-02-02T202653.688.jpg,"(85, 138, 24)",0
-173,test/apples/images - 2022-02-02T202653.959.jpg,"(68, 111, 32)",0
-174,test/apples/images - 2022-02-02T202654.433.jpg,"(132, 139, 95)",0
-175,test/apples/images - 2022-02-02T202654.645.jpg,"(0, 7, 0)",0
-176,test/apples/images - 2022-02-02T202654.728.jpg,"(131, 128, 73)",0
-177,test/apples/images - 2022-02-02T202655.558.jpg,"(102, 159, 44)",0
-178,test/apples/images - 2022-02-02T202655.970.jpg,"(119, 120, 16)",0
-179,test/apples/images - 2022-02-02T202656.107.jpg,"(80, 117, 37)",0
-180,test/apples/images - 2022-02-02T202656.855.jpg,"(57, 111, 0)",0
-181,test/apples/images - 2022-02-02T202656.955.jpg,"(47, 55, 0)",0
-182,test/apples/images - 2022-02-02T202714.105.jpg,"(75, 121, 0)",0
-183,test/apples/images - 2022-02-02T202715.613.jpg,"(0, 25, 0)",0
-184,test/apples/images - 2022-02-02T202718.092.jpg,"(143, 198, 115)",0
-185,test/apples/images - 2022-02-02T202719.607.jpg,"(43, 60, 8)",0
-186,test/apples/images - 2022-02-02T202722.715.jpg,"(143, 198, 115)",0
-187,test/apples/images - 2022-02-02T202722.855.jpg,"(120, 138, 96)",0
-188,test/apples/images - 2022-02-02T202723.300.jpg,"(54, 81, 38)",0
-189,test/apples/images - 2022-02-02T202728.323.jpg,"(53, 76, 48)",0
-190,test/apples/images - 2022-02-02T202740.217.jpg,"(10, 14, 15)",0
-191,test/apples/images - 2022-02-02T202744.011.jpg,"(0, 2, 0)",0
-192,test/apples/images - 2022-02-02T202744.449.jpg,"(37, 61, 0)",0
-193,test/apples/images - 2022-02-02T202745.407.jpg,"(62, 97, 43)",0
-194,test/apples/images - 2022-02-02T202747.090.jpg,"(244, 244, 242)",0
-195,test/apples/images - 2022-02-02T202747.181.jpg,"(41, 73, 0)",0
-196,test/apples/images - 2022-02-02T202948.147.jpg,"(133, 144, 110)",0
-197,test/apples/images.jpg,"(191, 83, 96)",0
-198,test/oranges/download (1).jpg,"(246, 246, 246)",1
-199,test/oranges/download (10).jpg,"(255, 255, 255)",1
-200,test/oranges/download (11).jpg,"(151, 69, 13)",1
-201,test/oranges/download (12).jpg,"(255, 255, 255)",1
-202,test/oranges/download (2).jpg,"(255, 255, 255)",1
-203,test/oranges/download (24).jpg,"(0, 3, 0)",1
-204,test/oranges/download (27).jpg,"(254, 223, 132)",1
-205,test/oranges/download (28).jpg,"(0, 11, 0)",1
-206,test/oranges/download (29).jpg,"(54, 83, 29)",1
-207,test/oranges/download (3).jpg,"(223, 113, 0)",1
-208,test/oranges/download (30).jpg,"(42, 62, 9)",1
-209,test/oranges/download (32).jpg,"(52, 64, 0)",1
-210,test/oranges/download (34).jpg,"(232, 106, 19)",1
-211,test/oranges/download (35).jpg,"(253, 151, 4)",1
-212,test/oranges/download (37).jpg,"(0, 25, 0)",1
-213,test/oranges/download (4).jpg,"(228, 128, 4)",1
-214,test/oranges/download (40).jpg,"(193, 68, 24)",1
-215,test/oranges/download (43).jpg,"(179, 67, 1)",1
-216,test/oranges/download (44).jpg,"(74, 63, 59)",1
-217,test/oranges/download (45).jpg,"(36, 63, 28)",1
-218,test/oranges/download (46).jpg,"(84, 88, 51)",1
-219,test/oranges/download (48).jpg,"(9, 9, 9)",1
-220,test/oranges/download (5).jpg,"(254, 255, 255)",1
-221,test/oranges/download (52).jpg,"(254, 112, 4)",1
-222,test/oranges/download (53).jpg,"(15, 20, 0)",1
-223,test/oranges/download (56).jpg,"(66, 93, 52)",1
-224,test/oranges/download (57).jpg,"(0, 54, 0)",1
-225,test/oranges/download (58).jpg,"(123, 154, 87)",1
-226,test/oranges/download (59).jpg,"(249, 180, 17)",1
-227,test/oranges/download (6).jpg,"(154, 28, 3)",1
-228,test/oranges/download (65).jpg,"(255, 255, 255)",1
-229,test/oranges/download (66).jpg,"(55, 68, 0)",1
-230,test/oranges/download (69).jpg,"(56, 70, 44)",1
-231,test/oranges/download (7).jpg,"(254, 129, 1)",1
-232,test/oranges/download (72).jpg,"(0, 23, 7)",1
-233,test/oranges/download (73).jpg,"(7, 3, 2)",1
-234,test/oranges/download (79).jpg,"(255, 255, 255)",1
-235,test/oranges/download (8).jpg,"(255, 255, 255)",1
-236,test/oranges/download (83).jpg,"(255, 202, 24)",1
-237,test/oranges/download (9).jpg,"(255, 255, 255)",1
-238,test/oranges/download (92).jpg,"(47, 58, 0)",1
-239,test/oranges/download.jpg,"(255, 255, 255)",1
-240,test/oranges/images - 2022-02-02T210203.067.jpg,"(19, 22, 15)",1
-241,test/oranges/images - 2022-02-02T210242.695.jpg,"(172, 76, 0)",1
-242,test/oranges/images - 2022-02-02T210250.352.jpg,"(255, 134, 0)",1
-243,test/oranges/images - 2022-02-02T211217.077.jpg,"(0, 9, 0)",1
-244,test/oranges/images - 2022-02-02T211237.483.jpg,"(26, 55, 0)",1
-245,test/oranges/images - 2022-02-02T211256.450.jpg,"(52, 60, 36)",1
-246,test/oranges/images - 2022-02-02T211301.881.jpg,"(47, 72, 40)",1
-247,test/oranges/orange_129.jpg,"(240, 138, 54)",1
-248,test/oranges/orange_133.jpg,"(238, 108, 46)",1
-249,test/oranges/orange_134.jpg,"(238, 125, 49)",1
-250,test/oranges/orange_1392.jpg,"(240, 149, 56)",1
-251,test/oranges/orange_1399.jpg,"(255, 255, 255)",1
-252,test/oranges/orange_1406.jpg,"(255, 255, 255)",1
-253,test/oranges/orange_1411.jpg,"(239, 132, 52)",1
-254,test/oranges/orange_144.jpg,"(240, 133, 51)",1
-255,test/oranges/orange_1452.jpg,"(255, 255, 255)",1
-256,test/oranges/orange_361.jpg,"(244, 174, 62)",1
-257,test/oranges/orange_375.jpg,"(243, 155, 57)",1
-258,test/oranges/orange_380.jpg,"(236, 124, 48)",1
-259,test/oranges/orange_388.jpg,"(255, 255, 255)",1
-260,test/oranges/orange_393.jpg,"(216, 112, 57)",1
-261,test/oranges/orange_394.jpg,"(239, 126, 50)",1
-262,test/oranges/orange_621.jpg,"(237, 117, 57)",1
-263,test/oranges/orange_622.jpg,"(238, 108, 46)",1
-264,test/oranges/orange_623.jpg,"(238, 125, 49)",1
-265,test/oranges/orange_638.jpg,"(239, 132, 52)",1
-266,test/oranges/orange_663.jpg,"(241, 151, 55)",1
-267,test/oranges/orange_664.jpg,"(233, 122, 53)",1
-268,test/oranges/orange_665.jpg,"(238, 151, 54)",1
-269,test/oranges/orange_678.jpg,"(239, 152, 55)",1
-270,test/oranges/orange_680.jpg,"(231, 120, 51)",1
-271,test/oranges/orange_683.jpg,"(238, 122, 61)",1
+filename,r,g,b,class
+test/apples/apples_1.jpg,91,116,123,0
+test/apples/apples_118.jpg,126,178,166,0
+test/apples/apples_119.jpg,17,17,17,0
+test/apples/apples_120.jpg,10,18,20,0
+test/apples/apples_144.jpg,255,255,255,0
+test/apples/apples_150.jpg,4,4,4,0
+test/apples/apples_151.jpg,231,197,152,0
+test/apples/apples_153.jpg,255,255,255,0
+test/apples/apples_166.jpg,144,134,133,0
+test/apples/apples_195.jpg,204,219,226,0
+test/apples/apples_198.jpg,255,255,255,0
+test/apples/apples_201.jpg,2,2,0,0
+test/apples/apples_212.jpg,207,192,189,0
+test/apples/apples_213.jpg,226,179,151,0
+test/apples/apples_215.jpg,205,185,160,0
+test/apples/apples_219.jpg,179,178,183,0
+test/apples/apples_231.jpg,111,77,75,0
+test/apples/apples_240.jpg,119,130,88,0
+test/apples/apples_250.jpg,70,36,11,0
+test/apples/apples_257.jpg,248,249,253,0
+test/apples/apples_258.jpg,6,4,5,0
+test/apples/apples_266.jpg,12,10,13,0
+test/apples/apples_269.jpg,255,255,255,0
+test/apples/apples_270.jpg,221,190,133,0
+test/apples/apples_301.jpg,49,46,37,0
+test/apples/apples_314.jpg,140,118,71,0
+test/apples/apples_317.jpg,100,21,27,0
+test/apples/apples_319.jpg,53,56,45,0
+test/apples/apples_321.jpg,60,62,0,0
+test/apples/apples_326.jpg,186,183,168,0
+test/apples/apples_351 - Copy.jpg,101,141,88,0
+test/apples/apples_360 - Copy.jpg,113,16,9,0
+test/apples/apples_364.jpg,255,255,255,0
+test/apples/apples_367.jpg,85,6,2,0
+test/apples/apples_375.jpg,195,61,68,0
+test/apples/apples_379.jpg,251,253,252,0
+test/apples/apples_383.jpg,223,224,228,0
+test/apples/apples_385.jpg,255,255,255,0
+test/apples/apples_391.jpg,109,123,64,0
+test/apples/apples_392.jpg,105,160,120,0
+test/apples/apples_393.jpg,254,254,254,0
+test/apples/apples_394.jpg,93,101,0,0
+test/apples/apples_395.jpg,255,255,255,0
+test/apples/apples_396.jpg,112,151,0,0
+test/apples/apples_405.jpg,255,255,255,0
+test/apples/apples_407.jpg,255,255,255,0
+test/apples/apples_408.jpg,244,245,247,0
+test/apples/apples_414.jpg,173,163,161,0
+test/apples/apples_416.jpg,142,50,61,0
+test/apples/apples_433.jpg,148,36,50,0
+test/apples/apples_435.jpg,113,16,9,0
+test/apples/apples_436.jpg,89,1,0,0
+test/apples/apples_437.jpg,120,120,118,0
+test/apples/apples_444.jpg,13,9,10,0
+test/apples/apples_446.jpg,43,55,41,0
+test/apples/apples_447.jpg,157,83,38,0
+test/apples/apples_460.jpg,246,246,246,0
+test/apples/apples_469.jpg,242,237,233,0
+test/apples/apples_471.jpg,179,115,103,0
+test/apples/apples_473.jpg,226,219,213,0
+test/apples/apples_480.jpg,206,230,168,0
+test/apples/apples_481.jpg,147,146,151,0
+test/apples/apples_503.jpg,242,240,131,0
+test/apples/apples_508.jpg,255,255,255,0
+test/apples/apples_511.jpg,235,221,210,0
+test/apples/apples_512.jpg,205,71,62,0
+test/apples/apples_517.jpg,134,131,126,0
+test/apples/apples_523.jpg,255,253,232,0
+test/apples/apples_53.jpg,182,173,166,0
+test/apples/apples_533.jpg,43,69,22,0
+test/apples/apples_538.jpg,255,255,253,0
+test/apples/apples_540.jpg,157,174,0,0
+test/apples/apples_541.jpg,79,89,37,0
+test/apples/apples_562.jpg,255,255,255,0
+test/apples/apples_565.jpg,29,39,15,0
+test/apples/apples_566.jpg,68,89,0,0
+test/apples/apples_580.jpg,74,84,85,0
+test/apples/apples_597.jpg,172,157,136,0
+test/apples/apples_620.jpg,46,69,51,0
+test/apples/apples_643.jpg,186,135,69,0
+test/apples/apples_648.jpg,1,0,0,0
+test/apples/apples_649.jpg,210,211,206,0
+test/apples/apples_655.jpg,196,67,36,0
+test/apples/apples_657.jpg,251,250,255,0
+test/apples/apples_682.jpg,206,207,209,0
+test/apples/apples_684.jpg,0,0,10,0
+test/apples/apples_692.jpg,0,0,0,0
+test/apples/apples_696.jpg,110,54,39,0
+test/apples/apples_699.jpg,2,63,118,0
+test/apples/apples_700.jpg,0,0,0,0
+test/apples/apples_714.jpg,149,146,137,0
+test/apples/apples_725.jpg,189,25,0,0
+test/apples/apples_733.jpg,6,20,3,0
+test/apples/apples_734.jpg,28,40,4,0
+test/apples/apples_735.jpg,155,24,29,0
+test/apples/apples_738.jpg,142,47,27,0
+test/apples/apples_741.jpg,0,0,0,0
+test/apples/apples_744.jpg,0,0,0,0
+test/apples/apples_745.jpg,210,201,186,0
+test/apples/apples_747.jpg,126,48,26,0
+test/apples/apples_748.jpg,103,102,54,0
+test/apples/apples_750.jpg,146,155,160,0
+test/apples/apples_752.jpg,83,45,22,0
+test/apples/apples_753.jpg,122,126,49,0
+test/apples/apples_762.jpg,161,52,45,0
+test/apples/apples_763.jpg,48,53,47,0
+test/apples/apples_769.jpg,93,114,45,0
+test/apples/apples_770.jpg,156,156,154,0
+test/apples/apples_776.jpg,4,10,8,0
+test/apples/apples_783.jpg,8,7,13,0
+test/apples/apples_785.jpg,255,255,255,0
+test/apples/apples_789.jpg,4,2,3,0
+test/apples/apples_791.jpg,19,19,17,0
+test/apples/apples_793.jpg,14,0,0,0
+test/apples/apples_797.jpg,0,5,0,0
+test/apples/apples_800.jpg,210,173,95,0
+test/apples/apples_801.jpg,14,23,6,0
+test/apples/apples_803.jpg,126,154,96,0
+test/apples/apples_847.jpg,30,41,33,0
+test/apples/apples_848.jpg,157,40,82,0
+test/apples/apples_855.jpg,177,135,111,0
+test/apples/apples_867.jpg,252,254,253,0
+test/apples/apples_868.jpg,206,184,147,0
+test/apples/apples_871.jpg,187,33,33,0
+test/apples/apples_872.jpg,255,255,255,0
+test/apples/apples_876.jpg,97,62,34,0
+test/apples/apples_877.jpg,142,134,131,0
+test/apples/apples_878.jpg,77,95,47,0
+test/apples/apples_882.jpg,9,10,4,0
+test/apples/apples_891.jpg,11,11,11,0
+test/apples/apples_894.jpg,233,234,228,0
+test/apples/apples_904.jpg,201,197,186,0
+test/apples/apples_909.jpg,202,159,104,0
+test/apples/apples_911.jpg,20,41,0,0
+test/apples/apples_912.jpg,183,184,179,0
+test/apples/apples_913.jpg,117,117,117,0
+test/apples/apples_915.jpg,13,12,10,0
+test/apples/apples_918.jpg,147,165,167,0
+test/apples/apples_919.jpg,56,59,42,0
+test/apples/apples_920.jpg,122,114,111,0
+test/apples/apples_930.jpg,148,89,57,0
+test/apples/apples_942.jpg,205,219,254,0
+test/apples/apples_948.jpg,13,11,14,0
+test/apples/apples_949.jpg,0,0,0,0
+test/apples/images (49).jpg,229,130,176,0
+test/apples/images (51).jpg,186,75,84,0
+test/apples/images (53).jpg,112,4,20,0
+test/apples/images (74).jpg,136,22,32,0
+test/apples/images (84).jpg,215,68,136,0
+test/apples/images (86).jpg,119,32,49,0
+test/apples/images (87).jpg,128,7,12,0
+test/apples/images (88).jpg,106,13,34,0
+test/apples/images - 2022-02-02T202114.896.jpg,254,59,103,0
+test/apples/images - 2022-02-02T202117.507.jpg,177,63,97,0
+test/apples/images - 2022-02-02T202120.034.jpg,115,21,9,0
+test/apples/images - 2022-02-02T202120.245.jpg,99,125,116,0
+test/apples/images - 2022-02-02T202334.178.jpg,83,103,42,0
+test/apples/images - 2022-02-02T202355.680.jpg,43,60,8,0
+test/apples/images - 2022-02-02T202359.320.jpg,143,198,115,0
+test/apples/images - 2022-02-02T202402.552.jpg,31,49,27,0
+test/apples/images - 2022-02-02T202404.227.jpg,254,254,254,0
+test/apples/images - 2022-02-02T202404.384.jpg,61,76,45,0
+test/apples/images - 2022-02-02T202404.577.jpg,70,95,12,0
+test/apples/images - 2022-02-02T202407.477.jpg,10,14,15,0
+test/apples/images - 2022-02-02T202408.906.jpg,0,2,0,0
+test/apples/images - 2022-02-02T202410.080.jpg,37,61,0,0
+test/apples/images - 2022-02-02T202411.901.jpg,62,97,43,0
+test/apples/images - 2022-02-02T202416.818.jpg,41,73,0,0
+test/apples/images - 2022-02-02T202418.454.jpg,96,133,38,0
+test/apples/images - 2022-02-02T202652.298.jpg,83,103,42,0
+test/apples/images - 2022-02-02T202652.671.jpg,114,126,80,0
+test/apples/images - 2022-02-02T202653.169.jpg,31,51,0,0
+test/apples/images - 2022-02-02T202653.688.jpg,85,138,24,0
+test/apples/images - 2022-02-02T202653.959.jpg,68,111,32,0
+test/apples/images - 2022-02-02T202654.433.jpg,132,139,95,0
+test/apples/images - 2022-02-02T202654.645.jpg,0,7,0,0
+test/apples/images - 2022-02-02T202654.728.jpg,131,128,73,0
+test/apples/images - 2022-02-02T202655.558.jpg,102,159,44,0
+test/apples/images - 2022-02-02T202655.970.jpg,119,120,16,0
+test/apples/images - 2022-02-02T202656.107.jpg,80,117,37,0
+test/apples/images - 2022-02-02T202656.855.jpg,57,111,0,0
+test/apples/images - 2022-02-02T202656.955.jpg,47,55,0,0
+test/apples/images - 2022-02-02T202714.105.jpg,75,121,0,0
+test/apples/images - 2022-02-02T202715.613.jpg,0,25,0,0
+test/apples/images - 2022-02-02T202718.092.jpg,143,198,115,0
+test/apples/images - 2022-02-02T202719.607.jpg,43,60,8,0
+test/apples/images - 2022-02-02T202722.715.jpg,143,198,115,0
+test/apples/images - 2022-02-02T202722.855.jpg,120,138,96,0
+test/apples/images - 2022-02-02T202723.300.jpg,54,81,38,0
+test/apples/images - 2022-02-02T202728.323.jpg,53,76,48,0
+test/apples/images - 2022-02-02T202740.217.jpg,10,14,15,0
+test/apples/images - 2022-02-02T202744.011.jpg,0,2,0,0
+test/apples/images - 2022-02-02T202744.449.jpg,37,61,0,0
+test/apples/images - 2022-02-02T202745.407.jpg,62,97,43,0
+test/apples/images - 2022-02-02T202747.090.jpg,244,244,242,0
+test/apples/images - 2022-02-02T202747.181.jpg,41,73,0,0
+test/apples/images - 2022-02-02T202948.147.jpg,133,144,110,0
+test/apples/images.jpg,191,83,96,0
+test/oranges/download (1).jpg,246,246,246,1
+test/oranges/download (10).jpg,255,255,255,1
+test/oranges/download (11).jpg,151,69,13,1
+test/oranges/download (12).jpg,255,255,255,1
+test/oranges/download (2).jpg,255,255,255,1
+test/oranges/download (24).jpg,0,3,0,1
+test/oranges/download (27).jpg,254,223,132,1
+test/oranges/download (28).jpg,0,11,0,1
+test/oranges/download (29).jpg,54,83,29,1
+test/oranges/download (3).jpg,223,113,0,1
+test/oranges/download (30).jpg,42,62,9,1
+test/oranges/download (32).jpg,52,64,0,1
+test/oranges/download (34).jpg,232,106,19,1
+test/oranges/download (35).jpg,253,151,4,1
+test/oranges/download (37).jpg,0,25,0,1
+test/oranges/download (4).jpg,228,128,4,1
+test/oranges/download (40).jpg,193,68,24,1
+test/oranges/download (43).jpg,179,67,1,1
+test/oranges/download (44).jpg,74,63,59,1
+test/oranges/download (45).jpg,36,63,28,1
+test/oranges/download (46).jpg,84,88,51,1
+test/oranges/download (48).jpg,9,9,9,1
+test/oranges/download (5).jpg,254,255,255,1
+test/oranges/download (52).jpg,254,112,4,1
+test/oranges/download (53).jpg,15,20,0,1
+test/oranges/download (56).jpg,66,93,52,1
+test/oranges/download (57).jpg,0,54,0,1
+test/oranges/download (58).jpg,123,154,87,1
+test/oranges/download (59).jpg,249,180,17,1
+test/oranges/download (6).jpg,154,28,3,1
+test/oranges/download (65).jpg,255,255,255,1
+test/oranges/download (66).jpg,55,68,0,1
+test/oranges/download (69).jpg,56,70,44,1
+test/oranges/download (7).jpg,254,129,1,1
+test/oranges/download (72).jpg,0,23,7,1
+test/oranges/download (73).jpg,7,3,2,1
+test/oranges/download (79).jpg,255,255,255,1
+test/oranges/download (8).jpg,255,255,255,1
+test/oranges/download (83).jpg,255,202,24,1
+test/oranges/download (9).jpg,255,255,255,1
+test/oranges/download (92).jpg,47,58,0,1
+test/oranges/download.jpg,255,255,255,1
+test/oranges/images - 2022-02-02T210203.067.jpg,19,22,15,1
+test/oranges/images - 2022-02-02T210242.695.jpg,172,76,0,1
+test/oranges/images - 2022-02-02T210250.352.jpg,255,134,0,1
+test/oranges/images - 2022-02-02T211217.077.jpg,0,9,0,1
+test/oranges/images - 2022-02-02T211237.483.jpg,26,55,0,1
+test/oranges/images - 2022-02-02T211256.450.jpg,52,60,36,1
+test/oranges/images - 2022-02-02T211301.881.jpg,47,72,40,1
+test/oranges/orange_129.jpg,240,138,54,1
+test/oranges/orange_133.jpg,238,108,46,1
+test/oranges/orange_134.jpg,238,125,49,1
+test/oranges/orange_1392.jpg,240,149,56,1
+test/oranges/orange_1399.jpg,255,255,255,1
+test/oranges/orange_1406.jpg,255,255,255,1
+test/oranges/orange_1411.jpg,239,132,52,1
+test/oranges/orange_144.jpg,240,133,51,1
+test/oranges/orange_1452.jpg,255,255,255,1
+test/oranges/orange_361.jpg,244,174,62,1
+test/oranges/orange_375.jpg,243,155,57,1
+test/oranges/orange_380.jpg,236,124,48,1
+test/oranges/orange_388.jpg,255,255,255,1
+test/oranges/orange_393.jpg,216,112,57,1
+test/oranges/orange_394.jpg,239,126,50,1
+test/oranges/orange_621.jpg,237,117,57,1
+test/oranges/orange_622.jpg,238,108,46,1
+test/oranges/orange_623.jpg,238,125,49,1
+test/oranges/orange_638.jpg,239,132,52,1
+test/oranges/orange_663.jpg,241,151,55,1
+test/oranges/orange_664.jpg,233,122,53,1
+test/oranges/orange_665.jpg,238,151,54,1
+test/oranges/orange_678.jpg,239,152,55,1
+test/oranges/orange_680.jpg,231,120,51,1
+test/oranges/orange_683.jpg,238,122,61,1
